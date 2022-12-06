@@ -24,7 +24,7 @@ and displays a demographic table.
 
    <center>
 
-      <a href="https://github.com/bahp/ls2d/" target="_blank">
+      <a href="https://github.com/bahp/fdh-1057467/" target="_blank">
          <button class="btn-github"> View on GitHub
             <img class="btn-icon" src="./_static/images/icon-github.svg" width=18/>
          </button>
@@ -41,7 +41,7 @@ and displays a demographic table.
    <br><br>
 
 ..
-   The code of the project is on Github: https://github.com/bahp/ls2d
+   The code of the project is on Github: https://github.com/bahp/fdh-1057467
 
 ..
    ** Live daemon availale in Heroku (link). Heroku puts processes to sleep after
